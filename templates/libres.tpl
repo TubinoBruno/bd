@@ -9,7 +9,7 @@
   <div class="form-row align-items-center">
     <div class="col-auto">
       <label class="sr-only" for="inlineFormInput">Codigo cliente</label>
-      <input type="date" class="form-control mb-2" name="verLibres" id="inlineFormInput" placeholder="Codigo cliente" min="2017-04-01" max="2022-04-30">
+      <input type="date" class="form-control mb-2" name="verLibres" id="inlineFormInput" placeholder="Codigo cliente" >
     </div>
     
     <div class="col-auto">
